@@ -1,2 +1,2 @@
-def get_text():
-    return "Some text"
+def get_text(text):
+    return text
